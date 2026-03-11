@@ -49,22 +49,23 @@ Scikit-learn
 
 ## Project Structure
 
-
+```
 E-Commerce-Product-Recommendation
 │
 ├── backend
-│ ├── models
-│ ├── hybrid_recommender.py
-│ ├── popularity_model.py
-│ ├── new_user.py
-│ └── app.py
+│   ├── models
+│   ├── hybrid_recommender.py
+│   ├── popularity_model.py
+│   ├── new_user.py
+│   └── app.py
 │
 ├── frontend
-│ ├── components
-│ ├── pages
-│ └── App.js
+│   ├── components
+│   ├── pages
+│   └── App.js
 │
 └── README.md
+```
 
 
 ---
